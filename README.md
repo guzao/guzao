@@ -5,5 +5,3 @@
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=guzao&theme=xcode" /> </div>
