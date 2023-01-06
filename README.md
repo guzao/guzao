@@ -3,5 +3,4 @@
 
 - :orange_book: Focusing on VUE & REACT
 - :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
